@@ -5,7 +5,6 @@ var searchInsert = function (nums, target) {
 
   while (low <= high) {
     let mid = Math.floor((low + high + 1) / 2);
-    // console.log({mid, low, high})
     if (nums[mid] == target) return mid;
     if (target > nums[mid]) {
       low = mid + 1;
