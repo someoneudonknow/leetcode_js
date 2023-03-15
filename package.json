@@ -1,0 +1,12 @@
+{
+  "name": "leetcode_with_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "704_BinarySearch(ez).js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node 704_BinarySearch(ez).js"
+  },
+  "author": "\"tu tran\"",
+  "license": "ISC"
+}
