@@ -18,3 +18,5 @@ var solution = function(isBadVersion) {
        return low;
     };
 };
+
+export default solution;

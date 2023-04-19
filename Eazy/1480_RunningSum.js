@@ -17,6 +17,4 @@ var fasterRunningSum = function(nums) {
     return nums;
 }
 
-let ex1 = [1,2,3,4];
-
-console.log(runningSum([1,1,1,1,1]));
+export {runningSum, fasterRunningSum};

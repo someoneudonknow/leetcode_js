@@ -18,3 +18,5 @@ var sortedSquares = function(nums) {
 
     return resultArr;
 };
+
+export default sortedSquares;

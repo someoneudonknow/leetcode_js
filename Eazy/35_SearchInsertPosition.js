@@ -15,4 +15,4 @@ var searchInsert = function (nums, target) {
   return nums[high] > target ? high - 1 : high + 1;
 };
 
-console.log(searchInsert([1, 3, 5, 6], 7));
+export default searchInsert;

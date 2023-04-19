@@ -17,5 +17,4 @@ var search = function (nums, target) {
   return -1;
 };
 
-const result = search([-1, 0, 3, 5, 9, 12]);
-console.log(result);
+export default search;
