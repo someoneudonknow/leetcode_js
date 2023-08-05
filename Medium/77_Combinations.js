@@ -26,7 +26,7 @@ var combine2 = function(n, k) {
     iter(0, []);
     
     return Array.from(results.values());
-};
+}; // my solution but tle
 
 var combine = function(n, k) {
     const results = [];
